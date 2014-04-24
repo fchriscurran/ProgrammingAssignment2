@@ -5,7 +5,7 @@
 
 ## The makeCacheMatrix function has subfunctions that can calculate
 #the inverse of the matrix, return a cached inverse, or save a calculated
-#inverse into the cache
+#inverse into the cache.
 
 makeCacheMatrix <- function(x=matrix()) {
 
